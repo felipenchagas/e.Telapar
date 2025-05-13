@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /.smileys/
+Disallow: /novo
+Disallow: send-mail.php
+Disallow: .htacces
+Sitemap: http://www.estruturametalicapr.com.br/sitemap.xml
